@@ -4,5 +4,6 @@ version = "0.1.0"
 edition = "2024"
 description = "A simple math crate"
 license = "MIT"
+repository = "https://github.com/kowsik-00/my_math"
 
 [dependencies]
