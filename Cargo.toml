@@ -1,0 +1,8 @@
+[package]
+name = "my_math"
+version = "0.1.0"
+edition = "2024"
+description = "A simple math crate"
+license = "MIT"
+
+[dependencies]
